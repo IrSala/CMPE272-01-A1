@@ -11,14 +11,18 @@ Below is a simulation of the microservice architecture:
    ![Alt text](screenshots/1.png)
    ![Alt text](screenshots/2.png)
 2. Create a user through user_service.py.
-    ![Alt text](screenshots/3.png)
+
+   ![Alt text](screenshots/3.png)
    ![Alt text](screenshots/4.png)
-4. Retrieve user data through user_service.py.
+3. Retrieve user data through user_service.py.
+
    ![Alt text](screenshots/5.png)
    ![Alt text](screenshots/6.png)
-6. Create order through order_service.py.
+4. Create order through order_service.py.
+
    ![Alt text](screenshots/7.png)
    ![Alt text](screenshots/8.png)
-8. Retrieve order through order_service.py.
+5. Retrieve order through order_service.py.
+
    ![Alt text](screenshots/9.png)
    ![Alt text](screenshots/10.png)
