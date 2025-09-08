@@ -8,7 +8,7 @@ Two files were provided, user_service.py and order_service.py. Each of these fil
 Below is a simulation of the microservice architecture:
 
 1. Run both user_service.py and order_service.py on ports 5001 and 5002 repspectively.
-   ![Alt text](screemshots/1.png)
+   ![Alt text](screenshots/1.png)
 2. Create a user through user_service.py.
  
 3. Retrieve user data through user_service.py.
